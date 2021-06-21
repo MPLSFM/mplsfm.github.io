@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="26px" viewBox="0 0 23 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>New Tab Icon</title>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="MPLS-Home" transform="translate(-1402.000000, -26.000000)" stroke="#213528" stroke-width="3">
+            <g id="Nav" transform="translate(784.637458, -0.000000)">
+                <g id="Group-4" transform="translate(502.000000, 27.382537)">
+                    <g id="New-Tab-Icon" transform="translate(117.000000, 0.000000)">
+                        <g id="Group-2-Copy" transform="translate(10.500000, 10.117463) scale(1, -1) rotate(55.000000) translate(-10.500000, -10.117463) translate(2.000000, 4.617463)">
+                            <line x1="0.732792206" y1="5.22" x2="15.8527922" y2="5.22" id="Line-2"></line>
+                            <line x1="15.8527922" y1="5.22" x2="11.4054461" y2="0.137318788" id="Line-3"></line>
+                            <line x1="15.8527922" y1="10.3026812" x2="11.4054461" y2="5.22" id="Line-3-Copy" transform="translate(13.629119, 7.761341) scale(1, -1) translate(-13.629119, -7.761341) "></line>
+                        </g>
+                        <path d="M7,8.61746278 C2.33333333,8.61746278 0,8.61746278 0,8.61746278 C0,8.61746278 0,22.6174628 0,22.6174628 C0,22.6174628 14,22.6174628 14,22.6174628 C14,22.6174628 14,19.4956506 14,13.2520262" id="Path-3" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

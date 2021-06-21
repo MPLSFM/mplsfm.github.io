@@ -1,0 +1,3238 @@
+vendor:
+- name: Vendor 1
+  primary_contact: Jane Doe
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: 1
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: 11
+  website_url: www.google.com
+  vendor_email: vendor1@email.com
+  phone: 703-000-0000
+  local: true
+  usda_organic: true
+  pesticide_free: true
+  produce: true
+  farmstead: true
+  flowers: true
+  readytoeat: true
+
+- name: Andrew Xiong
+  primary_contact: Andrew Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: mariaxiong@outlook.com
+  phone: (651) 373-8494
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Appleberry Farm
+  primary_contact: Paul Leduc
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.theappleberryfarm.com/
+  vendor_email: artandsoul50720@gmail.com
+  phone: (507) 867-4846
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Aspen Ridge Honey Farm
+  primary_contact: Lawrence Hill
+  locations:
+    - name: Nicollet
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://aspenridgehoney.com
+  vendor_email: larryhill8540@gmail.com
+  phone: (612) 616-8540
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Bar 5 Meat and Poultry
+  primary_contact: Laura Wemeier
+  locations:
+    - name: Lyndale
+      days:
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: https://www.barfivemeatandpoultry.com/
+  vendor_email: Bar5@frontiernet.net
+  phone: (507) 380-7419
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Bayfield Fruit Co
+  primary_contact: Ed Rabideaux
+  locations:
+    - name: Lyndale
+      days:
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.bayfieldapple.com/
+  vendor_email: erabideaux@yahoo.com
+  phone: (651) 248-5982
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Bean Market
+  primary_contact: Yee Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://beanmarket.square.site/
+  vendor_email: kentaro_4life@hotmail.com
+  phone: (651) 829-7606
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Bergen's Greenhouses
+  primary_contact: Susie Johnson
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.bergensgreenhouses.com/
+  vendor_email: susanmjohnson.29@gmail.com
+  phone: (612) 987-0904
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Bergmans FARM
+  primary_contact: Gary Bergman
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Gbergman@usfamily.net
+  phone: (651) 274-0195
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Beulke Farms
+  primary_contact: Jim Beulke
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.thefloristandthefarmermn.com/
+  vendor_email: jsbeulke@yahoo.com
+  phone: (507) 272-3761
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Bill Brooks
+  primary_contact: William Brooks
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.brooksfarmandgreenhouses.com/?fbclid=IwAR38NiJmFMdULa1h_e3wLevI-8WTOaOnK1Unl_-tvWeR--VvhC2gAmOJ-Rw
+  vendor_email: b46brooks@hotmail.com
+  phone: (612) 669-7604
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Blue Neon Espresso
+  primary_contact: David Morley
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/BLUE-NEON-Espresso-107898050945866
+  vendor_email: blueneoncafe@msn.com
+  phone: (952) 212-8430
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: true
+
+- name: Boua Sao thao
+  primary_contact: Boua sao Thao
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Saothao60@gmail.com
+  phone: (651) 726-4384
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Braun Farm and Gardens, LLC
+  primary_contact: Christine Braun
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/Braun-Farm-and-Gardens-LLC-100544145314700/
+  vendor_email: braunfarmandgardensllc@gmail.com
+  phone: (612) 325-3375
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: BROMANS GREENHOUSE
+  primary_contact: Floyd Broman
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.bromansgreenhouse.com/
+  vendor_email: BROMANS950@AOL.COM
+  phone: (763) 494-3226
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Caribbean Heat
+  primary_contact: Julene Singh
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/CaribbeanHeatMpls/
+  vendor_email: Singhsheat@gmail.com
+  phone: (612) 558-9805
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Cha Garden
+  primary_contact: Cha Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: false
+      booth_number: Varies
+  website_url: https://www.facebook.com/ChaGardens/about/?ref=page_internal
+  vendor_email: LOPACHIA@GMAIL.COM
+  phone: (470) 214-4518
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Chee Moua
+  primary_contact: Chee Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: wy0002@hotmail.com
+  phone: (651) 717-8435
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Chue Vang
+  primary_contact: Chue Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: kuathao0609@gmail.com
+  phone: (651) 666-0403
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Cinnamon Roasted Almonds
+  primary_contact: Cindy Sullwold
+  locations:
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: false
+        su: false
+      booth_number: Varies
+  website_url: http://www.cinnamon-roasted-almonds.com/
+  vendor_email: mrksullwold@gmail.com
+  phone: (763) 972-2280
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: true
+
+- name: Dave Nelson Greenhouse, LLC
+  primary_contact: Dave Nelson
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://nelsonsgreenhouseandvegetables.com
+  vendor_email: virginia43nelson@yahoo.com
+  phone: (763) 263-3495
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Dehn’s Garden
+  primary_contact: Bonnie Dehn
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://dehnsgarden.com
+  vendor_email: Mnherblady@msn.com
+  phone: (763) 753-2806
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Der Xiong
+  primary_contact: Der Xion
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Derxiong22@hotmail.com
+  phone: (651) 497-6865
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Der's Flower
+  primary_contact: Der Thao
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/DersFarm/
+  vendor_email: geher01@comcast.net
+  phone: (651) 338-1401
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Dueling Grandmas Shortbread
+  primary_contact: Ken Velky
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://duelinggrandmas.com
+  vendor_email: duelinggrandmas@gmail.com
+  phone: (651) 278-6497
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Dunlaoghaire Soap
+  primary_contact: Loretta Ellis
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://mplssoap.com
+  vendor_email: lorettae@ymail.com
+  phone: (612) 598-4963
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+- name: Chue Vue Farmer Market
+  primary_contact: Chue Vue
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: chue_vue@yahoo.com
+  phone: (612) 876-1618
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Fireside Orchard & Gardens
+  primary_contact: Doug Harvey
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.firesideorchard.com
+  vendor_email: dharvey@firesideorchard.com
+  phone: (612) 220-3521
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Flowerguys
+  primary_contact: James Bush
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/The-Flower-Guys-170242349686049/
+  vendor_email: jimbush672@gmail.com
+  phone: (612) 707-0974
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: FONG VANG
+  primary_contact: Fong Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: TYLV@live.com
+  phone: (612) 588-1144
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Gaonou Lee
+  primary_contact: Gaonou Lee
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: 1
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: gaonou1996@gmail.com
+  phone: (612) 222-2924
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Gary Patnode Produce
+  primary_contact: Gary Patnode
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/garys.produce
+  vendor_email: conniepatnode@msn.com
+  phone: (612) 369-6680
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Ge Pao Vang
+  primary_contact: Ge Pao Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: maivleelee18@gmail.com
+  phone: (918) 521-8447
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Ge Vang
+  primary_contact: Ge Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: gvang058knights2016@gmail.com
+  phone: (651) 352-9297
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Ger Her
+  primary_contact: Ger Her
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: kachaiher@gmail.com
+  phone: (651) 235-4000
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Goldeman's Greenhouse
+  primary_contact: Alan Goldman
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: http://goldemansgreenhouse.com
+  vendor_email: goldemansgreenhouse@me.com
+  phone: (763) 742-8774
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Great Harvest Bread Co.
+  primary_contact: Steve Arnold
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://greatharvestminneapolis.com
+  vendor_email: minneapolismn@greatharvest.com
+  phone: (612) 929-2899
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Gregor Farm & Greenhouse, Inc
+  primary_contact: Tom Gregor
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: http://gregorfarm.com
+  vendor_email: tom@gregorfarm.com
+  phone: (612) 490-7964
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Grillin Meats
+  primary_contact: Christina Traeger
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.grillinmeats.com
+  vendor_email: grillinmeats@gmail.com
+  phone: (320) 293-2995
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: GVY Produce
+  primary_contact: Gee Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: false
+        su: false
+      booth_number: Varies
+  website_url:
+  vendor_email: youacreates13@gmail.com
+  phone: (651) 245-7241
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Gysland Brothers Farm
+  primary_contact: Reid Gysland
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.gyslandbrothersfarm.com
+  vendor_email: Gyslandbrothersfarm@gmail.com
+  phone: (952) 913-5553
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: HASTINGS FARM
+  primary_contact: KOU HER
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/hastingsfarmmarket/
+  vendor_email: kangvang21@gmail.com
+  phone: (651) 800-8501
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Havlicek's Veseli Vrsek Orchard
+  primary_contact: Dennis Havlicek
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: http://havlicekorchard.com
+  vendor_email: dennishavlicek@gmail.com
+  phone: (952) 758-4386
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Hmong tab laj farm
+  primary_contact: Lenny Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: lenny_xiong@yahoo.com
+  phone: (612) 749-3568
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Cha Moua Zoo Garden+A69
+  primary_contact: Cha Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: noukong4@gmail.com
+  phone: (651) 335-7172
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Jack Vang
+  primary_contact: Jack Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: jackvang1980@gmail.com
+  phone: (651) 757-0047
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Joe Vang
+  primary_contact: Joe Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: wafuevang1@gmail.com
+  phone: (651) 315-1327
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Julie Backes
+  primary_contact: Julie Backes
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: juliekale3@gmail.com
+  phone: (651) 331-6535
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: K & B Gardens
+  primary_contact: Barry Brooks
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/kandbgardens/
+  vendor_email: barry_brooks@hotmail.com
+  phone: (763) 441-4251
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Kaying Vang
+  primary_contact: Kaying Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: hlub4realz@yahoo.com
+  phone: (612) 263-2675
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Kelvin Vang
+  primary_contact: Kelvin Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: kelvin_r2@yahoo.com
+  phone: (651) 373-0477
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Ker's Organic Produce
+  primary_contact: Ker Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Ker1271@gmail.com
+  phone: (763) 313-2510
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Laemmle Greenhouse
+  primary_contact: ken laemmle
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/Laemmle-Greenhouses-264750083594708/
+  vendor_email: klaemmle@yahoo.com
+  phone: (715) 684-9033
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Lee Kong Vang
+  primary_contact: Lee Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Leevaj2010@gmail.com
+  phone: (651) 508-6855
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Lee Moua
+  primary_contact: Lee Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: leemouafarm@gmail.com
+  phone: (651) 592-1113
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Lee Produce
+  primary_contact: Pa Lee
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: pa_lee@live.com
+  phone: (651) 800-5975
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Maher
+  primary_contact: Ma Her
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: maher92387@gmail.com
+  phone: (651) 239-7337
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Mai Lee
+  primary_contact: Mia Lee
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: mvangxd@gmail.com
+  phone: (651) 246-4536
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Mai Yang
+  primary_contact: Mia Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: staceybyang@yahoo.com
+  phone: (651) 402-8864
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Mai Yang
+  primary_contact: Mia Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Yangchristina81@yahoo.com
+  phone: (612) 987-2885
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Mean Green Hot Sauce
+  primary_contact: saleh hamshari
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/meangreenhotsauce/
+  vendor_email: salehhashari@gmail.com
+  phone: (612) 875-0727
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Chocolate Confections & Pickled Perfections
+  primary_contact: Melissa Wry
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/pickledperfectionchocolateconfections/?ref=py_c
+  vendor_email: mwry2008@gmail.com
+  phone: (715) 222-7500
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Midwest Mushrooms, LLC
+  primary_contact: Peter Ralston
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://midwest-mushrooms.com
+  vendor_email: sales@midwest-mushrooms.com
+  phone: (612) 205-3504
+  local: true
+  usda_organic: true
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Minnesota Waterscapes
+  primary_contact: Becky Chudek
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://mnponds.com
+  vendor_email: jeffc@mnponds.com
+  phone: (763) 458-8104
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Morning Fresh Farm
+  primary_contact: Xa Lor
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: carbon8green@gmail.com
+  phone: (651) 208-8564
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: MOUA FARM
+  primary_contact: Khou Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/MouaFamilyFarm/
+  vendor_email: tazrael00@gmail.com
+  phone: (651) 245-9297
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Moua's Farm
+  primary_contact: Patrick Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: mouapatrick@gmail.com
+  phone: (651) 246-0435
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Bee Vue
+  primary_contact: Bee Vue
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: bee.vue89@gmail.com
+  phone: (651) 350-6928
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Nao Tou Yang Farm and Greenhouses
+  primary_contact: Tou Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://ntyfarmandgreenhouses.com
+  vendor_email: ntyfarmandgreenhouses@gmail.com
+  phone: (612) 462-0527
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Nistler Farms
+  primary_contact: Jeffry Nistler
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://nistlerfarms.blogspot.com/
+  vendor_email: nstlrfrm@frontiernet.net
+  phone: (612) 816-3653
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Old Home Foods
+  primary_contact: Al Haeg
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: https://oldhomefoods.com/
+  vendor_email: ahaeg@oldhomefoods.com
+  phone: (651) 312-8900
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Pahls Market
+  primary_contact: Gary Phal
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.pahls.com
+  vendor_email: jason@pahls.com
+  phone: (952) 431-4345
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Pang's Vegetables
+  primary_contact: Pang Her
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: herxx224@gmail.com
+  phone: (763) 957-2123
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Pao Tong Yang
+  primary_contact: Pao Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: kayang2005@hotmail.com
+  phone: (763) 614-0696
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Peng Produce
+  primary_contact: Panhia Vue
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: panhia_vue1@live.com
+  phone: (651) 399-1577
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Pflaum Farms
+  primary_contact: Calvin and Margaret Pflaum
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: pfla0006@hotmail.com
+  phone: (651) 463-3577
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Picha Greenhouse and Farms
+  primary_contact: Terrance Picha
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.pichagreenhouses.com
+  vendor_email: terrypicha@comcast.net
+  phone: (952) 934-3088
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Plua Vang
+  primary_contact: Plua Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: plua_vang@yahoo.com
+  phone: (651) 707-5496
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Plum Crazy Orchard
+  primary_contact: Richard Brown
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: pcoguy1@aol.com
+  phone: (763) 682-3738
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Prana Kombucha
+  primary_contact: Yuyudhan Hoppe
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://prana-kombucha.com/
+  vendor_email: yuyudhan@prana-kombucha.com
+  phone: (612) 669-3220
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Mailor Moua Gardens
+  primary_contact: Mailor Moua
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.lpleegarden.com
+  vendor_email: llmm412@gmail.com
+  phone: (651) 983-6516
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Produce Acres
+  primary_contact: Trese Willenbring
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://produceacres.com
+  vendor_email: willfam9@gmail.com
+  phone: (320) 685-3257
+  local: true
+  usda_organic: true
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Rainbow Chinese Restaurant
+  primary_contact: Tammy Wong
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/rainbowchineserestaurant/
+  vendor_email: tammy@rainbowrestaurant.com
+  phone: (612) 870-7084
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: false
+  flowers: false
+  readytoeat: true
+
+- name: Rebecca-Sue Vang
+  primary_contact: Rebecca-Sue Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: deecchang@gmail.com
+  phone: (651) 734-8524
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Rich Valley Farms
+  primary_contact: Gary Berg
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://facebook.com/richvalleyfarmstoo
+  vendor_email: rvf@infionline.net
+  phone: (651) 455-8261
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Rolf's Produce
+  primary_contact: Ted Rolf
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: rolfsproduce@aol.com
+  phone: (763) 689-9720
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Scenic Waters Wild Rice Company
+  primary_contact: Scott Burns
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://wildricemn.com
+  vendor_email: swaters@paulbunyan.net
+  phone: (218) 835-6250
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Shimanski Orchard
+  primary_contact: Ron Shimanski
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://shimanskiorchard.blogspot.com/
+  vendor_email: ronshimanski@gmail.com
+  phone: (320) 223-2355
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Shur Yang
+  primary_contact: Shur Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.instagram.com/farmershur/
+  vendor_email: latesonrisefarm@gmail.com
+  phone: (651) 208-8783
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Smith Farms
+  primary_contact: Bruce Smith
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/SmithFarmsMN
+  vendor_email: asmithome@comcast.net
+  phone: (612) 237-6424
+  local: false
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Smokehouse Snacks
+  primary_contact: Brian jorgensen
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://smokehousesnacks.com
+  vendor_email: smokehousesnacks@gmail.com
+  phone: (651) 431-8705
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Soua Moua Vang
+  primary_contact: Soua Moua Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: gina_thao93@yahoo.com
+  phone: (612) 245-2741
+  local: true
+  usda_organic: true
+  pesticide_free: true
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Soua Vang
+  primary_contact: Soua Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: thaoshoua31@gmail.com
+  phone: (651) 925-7097
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Specialty Perennials
+  primary_contact: Paul Henjum
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://metalplanttag.com
+  vendor_email: harvey@metalplanttag.com
+  phone: (952) 432-7967
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: St Martin's Pickles
+  primary_contact: Connie StMartin
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: stmartinsllc@msn.com
+  phone: (952) 448-6249
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Sue Vang
+  primary_contact: Sue Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: true
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: false
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: vangpaulhoua@gmail.com
+  phone: (612) 998-6516
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Swan Tree Farms
+  primary_contact: Dan Swan
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.swantreefarms.com/
+  vendor_email: swantreefarms@gmail.com
+  phone: (715) 767-5498
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Tamara Sondrol's Bee-Licious Honey
+  primary_contact: Tamara Sondrol
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: tsondrol1014@msn.com
+  phone: (952) 992-9785
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Tamblyn's Nursery
+  primary_contact: Carl Tamblyn
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.tamblynsnursery.com
+  vendor_email: tamblynsnursery@yahoo.com
+  phone: (763) 795-9366
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Thai Yang
+  primary_contact: Thia Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Tyang1550@gmail.com
+  phone: (651) 442-1886
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Thao Gardens
+  primary_contact: Phua Thoa
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://thegoodacre.org/team/thao-gardens/
+  vendor_email: midwestorganics@gmail.com
+  phone: (651) 207-3659
+  local: true
+  usda_organic: true
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Thao Seasonal Floral
+  primary_contact: Mia Thoa
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: maixuethao89@hotmail.com
+  phone: (651) 230-7873
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: The Trout Monger
+  primary_contact: Jesse Preiner
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.troutmonger.com
+  vendor_email: preinerjesse@gmail.com
+  phone: (651) 270-0753
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Ty's Ginseng
+  primary_contact: Tyler Saemrow
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+      booth_number: 11
+  website_url:
+  vendor_email: Tylersaemrow@gmail.com
+  phone: (507) 384-2390
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Untiedt's Vegetable Farm, Inc
+  primary_contact: Jerry Untiedt
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.untiedts.com/
+  vendor_email: megan@untiedtswegrowforyou.com
+  phone: (763) 658-4672
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Urban Farm and Greenhouses LLC
+  primary_contact: Debra Urban
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://www.urbanfarmandgreenhouses.com
+  vendor_email: urbandebbie@comcast.net
+  phone: (651) 248-9696
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Utecht's Homegrown Pork
+  primary_contact: Chris Utecht
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: http://utechtshomegrownpork.com
+  vendor_email: beth@utechtshomegrownpork.com
+  phone: (715) 246-7289
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Vang Produce
+  primary_contact: Mai Ngoua Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/VangProduce/
+  vendor_email: maingouavang@yahoo.com
+  phone: (651) 434-4382
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Vermillion Farm
+  primary_contact: Zang Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: zang_vang07@hotmail.com
+  phone: (651) 434-4001
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: W.C. Produce and Flowers
+  primary_contact: Mary Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/WC-Produce-and-Flowers-1523237661317070/
+  vendor_email: maryxiong10@gmail.com
+  phone: (612) 562-3565
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: true
+  readytoeat: false
+
+- name: Wisconsin Cheese Outlet
+  primary_contact: Bruce Wry Jr
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/wisconsincheeseoutlet/
+  vendor_email: Wicheeseoutlet@gmail.com
+  phone: (715) 222-2884
+  local: false
+  usda_organic: false
+  pesticide_free: true
+  produce: false
+  farmstead: true
+  flowers: false
+  readytoeat: false
+
+- name: Xai Keu
+  primary_contact: Xai Keu
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: skeu0101@gmail.com
+  phone: (651) 334-3522
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Xang Vang
+  primary_contact: Xang Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: mayk789@gmail.com
+  phone: (651) 336-9559
+  local: true
+  usda_organic: false
+  pesticide_free: true
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Xe Thai
+  primary_contact: Xe Thoa
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+    - name: Nicollet
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: true
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: xez13@hotmail.com
+  phone: (612) 702-3204
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Yang Farm
+  primary_contact: Pa Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: paly.yang@gmail.com
+  phone: (612) 437-6357
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Yang's Produce
+  primary_contact: Doua Yang
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: baovang21@yahoo.com
+  phone: (651) 734-8359
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Yaoson Gardens
+  primary_contact: lani Vang
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: false
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.facebook.com/YaosonGardens/
+  vendor_email: Vanglani92@gmail.com
+  phone: (651) 272-0278
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: You Pao's Vegetables
+  primary_contact: You Pao Xiong
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: xong1952@gmail.com
+  phone: (651) 497-6397
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Young’s Farmers Market
+  primary_contact: Vaugh Young
+  locations:
+    - name: Lyndale
+      days:
+        open: true
+        mo: true
+        tu: true
+        we: true
+        th: true
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url:
+  vendor_email: Vaughyang@yahoo.com
+  phone: (651) 353-4360
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: false
+  flowers: false
+  readytoeat: false
+
+- name: Tollefson Family Pork
+  primary_contact:
+  locations:
+    - name: Lyndale
+      days:
+        open: false
+        mo: false
+        tu: false
+        we: false
+        th: false
+        fr: true
+        sa: true
+        su: true
+      booth_number: Varies
+  website_url: https://www.tollefsonfamilypork.com/
+  vendor_email: info@tollefsonfamilypork.com
+  phone: (612) 492-1985
+  local: true
+  usda_organic: false
+  pesticide_free: false
+  produce: true
+  farmstead: true
+  flowers: false
+  readytoeat: false
