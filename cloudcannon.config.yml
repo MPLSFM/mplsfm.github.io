@@ -1,0 +1,53 @@
+paths:
+  uploads: uploads
+  static: ''
+  dam_uploads: ''
+  dam_static: ''
+  collections: ''
+  data: _data
+  layouts: _layouts
+  includes: _includes
+collections_config:
+  pages:
+    path: ''
+    output: true
+    filter: strict
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  vendors:
+    path: _vendors
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  categories:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  tags:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+_select_data:
+  sass:
+    sass_dir: assets/css
+  twitter:
+    username: MplsFarmMarket
+    card: summary
+  facebook:
+    publisher: https://www.facebook.com/MplsFarmersMarket/
+  social:
+    name: Minneapolis Farmers Market
+    links:
+      - https://twitter.com/MplsFarmMarket
+      - https://www.facebook.com/MplsFarmersMarket
+      - https://www.instagram.com/mplsfarmmarket
+timezone: Etc/UTC
